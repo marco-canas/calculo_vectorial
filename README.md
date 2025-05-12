@@ -6,4 +6,4 @@
      * Saber utilizar el teorema de pitágoras.
      * Saber utilizar las funciones trigonométricas.
      * Saber garantizar perpendicularidad: (Un método es el de la brújula, Con el clínómetro)
-   
+3. Tarea para el 19 de mayo. Video describiendo geométricamente la configuración del sembrado en tres bolillos de la hacienda Manzanillos.    
