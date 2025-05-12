@@ -7,4 +7,5 @@
      * Saber utilizar las funciones trigonométricas.
      * Saber garantizar perpendicularidad: (Un método es el de la brújula, Con el clínómetro)
 3. Tarea para el 19 de mayo. Video describiendo geométricamente la configuración del sembrado en tres bolillos de la hacienda Manzanillos.    
-4. Tarea; para el 19 mayo. Video muestre en Geogebra los 7 tipos de triángulos. 
+4. Tarea; para el 19 mayo. Video muestre en Geogebra los 7 tipos de triángulos. (Hacer en GeoGebra sin cuadrícula y sin ejes)
+5. 
